@@ -1,0 +1,60 @@
+{
+	"finance_type": [
+		{
+			"name": "Earn",
+			"hasChildren": true,
+			"children":[
+				{
+					"name": "Salary",
+					"children":[]
+				},
+				{
+					"name": "Matuarity",
+					"children":[]
+				},
+
+			]
+		},
+				{
+			"name": "Expence",
+			"hasChildren": true,
+			"children":[
+				{
+					"name": "Savings",
+					"hasChildren": true,
+					"children":[
+						{
+							"name": "LIC",
+							"hasChildren": true,
+							"children":[]
+						},
+						{
+							"name": "Mutual Fund",
+							"hasChildren": true,
+							"children":[]
+						},
+						{
+							"name": "PPF",
+							"children":[]
+						},
+					]
+				},
+				{
+					"name": "Loan Repay",
+					"hasChildren": true,
+					"children":[]
+				},
+				{
+					"name": "Family",
+					"hasChildren": true,
+					"children":[]
+				},
+				
+			]
+		}
+	],
+	
+	"transactions" : [
+		
+	]
+}
